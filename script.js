@@ -2,6 +2,6 @@ const names = [canon:"canon', cael:"cael", sydney:"sydney", brigham:"brigham", j
 function inviterequest() {
   let name = prompt("Whats your name")
   if (name = "Canon" || "Cael" || "Sydney" || "Brigham" || "Jaden" || "Olivia" || "Addy" || "Charlotte" || "Reed") {
-  window.location.href = "https://discord.gg/fUsjSGb6w"
+    window.location.href = "https://discord.gg/fUsjSGb6w"
   }
 }
