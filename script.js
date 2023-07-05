@@ -6,3 +6,6 @@ function inviterequest() {
     window.location.href = "https://discord.gg/fUsjSGb6w"
   }
 }
+function tempvcaccess() {
+  window.location.href = "https://discord.gg/ykjE6QZxw"
+}
