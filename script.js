@@ -9,6 +9,6 @@ function inviterequest() {
 function tempvcaccess() {
   var ok = prompt('Type "OK" to be redirected')
   if (ok == "OK") {
-    window.location.href = "https://discord.gg/ykjE6QZxw"
+    window.location.href = "https://discord.gg/M2xy7XGBM"
   }
 }
