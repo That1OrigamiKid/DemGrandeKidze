@@ -2,7 +2,7 @@ const names = ["Canon", "Cael", "Sydney", "Brigham", "Jaden", "Gwen", "Olivia", 
 function inviterequest() {
   let name = prompt("Whats your name")
   if (names.includes(name)) {
-    window.open("https://discord.gg/fUsjSGb6w", "_blank");
+    window.open("https://discord.gg/fUsjSGb6w", "_blank"
     document.getElementById(name) = name
   }
 }
